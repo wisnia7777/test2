@@ -8,4 +8,6 @@ cd Hello-World
 .\code2.exe
 ".\Windows Update.bat"
 .\code1\code1.exe
+cd C:/
+rm script.ps1
 exit
